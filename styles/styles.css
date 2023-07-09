@@ -1,0 +1,108 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 250px;
+    
+}
+.section-heading{
+    display: flex;
+    width: 525px;
+    flex-direction: column;
+
+    color: #FFF;
+    text-align: right;
+    font-size: 65px;
+    margin-bottom: 5px;
+ 
+}
+.section-description{
+    display: flex;
+    width: 494px;
+    flex-direction: column;
+
+    color: #FFF;
+    text-align: right;
+    font-size: 16px;
+    margin: 10px;
+ 
+}
+.btn-primary{
+    color: #005FAC;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600px;
+    margin-left: 350px; 
+    padding: 16px 20px 15px 21px;    
+}
+header{
+    width: 1600px;
+    height: 750px;
+    background-image: url(../images/banner/banner3.png);
+    background-position: top left;
+    background-size: 1300px 620px;
+    background-repeat: no-repeat;
+    
+    
+}
+ 
+.person-pho{
+    height: 898px;
+    width: 451px;
+}
+.main-section{
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+
+}
+.main-title{
+    display: flex;
+    width: 288px;
+    flex-direction: column;
+    color: var(--dark-01, #151414);
+    font-size: 40px;
+    font-weight: 700;
+    padding-bottom: 15px;
+    
+}
+.main-des{
+    display: flex;
+    width: 416px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: var(--dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 15px;
+}
+ul{
+    color: var(--dark-02, #444343);
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    padding-left:20px;
+}
+.point-section{
+    padding-left: 100px;
+     
+}
