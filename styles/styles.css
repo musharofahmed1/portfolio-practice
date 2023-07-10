@@ -150,13 +150,16 @@ ul{
     margin-left: 230px;
     margin-right: 230px;
     margin-bottom: 150px;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%);
     background-image: url('../images/watch.png');
     background-position: top,left;
     background-repeat: no-repeat;
     background-position: lcover;
     background-size: 1000px 280px;
     border-radius: 8px;
-    
-1x
-
+    display: flex;
+    align-items: center;
+    justify-content: left;
+      
 }
+ 
