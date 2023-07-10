@@ -57,7 +57,7 @@ header{
     
 }
  
-.person-pho{
+.img-section{
     height: 898px;
     width: 451px;
 }
@@ -103,6 +103,60 @@ ul{
     padding-left:20px;
 }
 .point-section{
-    padding-left: 100px;
+    padding-left: 200px;
      
+}
+.plan-title{
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.plan-des{
+    color: var(--dark-03, #737272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.plan-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px;
+    padding:70px;
+}
+.plan-img{
+    height: 92px;
+    width: 92px;
+}
+.plan-heading{
+    color: var(--dark-01, #151414);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.motivation-container{
+    height: 200px;
+    width: 900px;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-bottom: 150px;
+    background-image: url('../images/watch.png');
+    background-position: top,left;
+    background-repeat: no-repeat;
+    background-position: lcover;
+    background-size: 1000px 280px;
+    border-radius: 8px;
+    
+1x
+
 }
